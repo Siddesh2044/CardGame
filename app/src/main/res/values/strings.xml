@@ -1,0 +1,74 @@
+<resources>
+    <string name="app_name">CardGame</string>
+    <string name="welcome">Welcome!</string>
+    <string name="log_in">Log In</string>
+    <string name="register">Register</string>
+    <string name="submit">Submit</string>
+    <string name="textview">TextView</string>
+    <string name="hello_user">Hello, User!</string>
+    <string name="droidy">TODO</string>
+    <string name="password">Password</string>
+    <string name="email">Email:</string>
+    <string name="last_name">Last Name:</string>
+    <string name="first_name">First Name:</string>
+    <string name="birthday_mm_dd_yyyy">Birthday(MM/DD/YYYY)</string>
+    <string name="your_email">Your Email:</string>
+    <string name="select_password">Select Password:</string>
+    <string name="todo">TODO</string>
+    <string name="hi">HI</string>
+    <string name="sign_in">Login</string>
+    <string name="splash_name">Hello User</string>
+    <string name="username_hint">Enter User name</string>
+    <string name="password_hint">Password</string>
+    <string name="sign_up">Submit</string>
+    <string name="user_fname">First Name</string>
+    <string name="user_lname">Last Name</string>
+    <string name="user_mail">Mail ID</string>
+    <string name="mobile_no">Mobile Number</string>
+    <string name="user_famname">Family Name</string>
+    <string name="welcome_screen">Welcome to </string>
+    <string name="welcome_text">Let\'s see how well you know about the capitals</string>
+    <string name="start_txt">START</string>
+    <string name="allthebest">All the best...</string>
+    <string name="confirm">Confirm</string>
+
+    <string name="question1">Question 1/5</string>
+    <string name="question2">Question 2/5</string>
+    <string name="question3">Question 3/5</string>
+    <string name="question4">Question 4/5</string>
+    <string name="question5">Question 5/5</string>
+
+    <string name="question_one">What is the capital of Finland?</string>
+    <string name="a_one_one">Conakry</string>
+    <string name="a_one_two">Prague</string>
+    <string name="a_one_three">Helsinki</string>
+    <string name="a_one_four">None of the above</string>
+
+    <string name="question_two">What is the capital of Egypt?</string>
+    <string name="a_two_one">San Jose</string>
+    <string name="a_two_two">Cairo</string>
+    <string name="a_two_three">Moroni</string>
+    <string name="a_two_four">Lusaka</string>
+
+    <string name="question_three">What is the capital of Nigeria?</string>
+    <string name="a_three_one">Monaco</string>
+    <string name="a_three_two">Abuja</string>
+    <string name="a_three_three">Podgorica</string>
+    <string name="a_three_four">Kampala</string>
+
+    <string name="question_four">What is the capital of China?</string>
+    <string name="a_four_one">Havana</string>
+    <string name="a_four_two">Santiago</string>
+    <string name="a_four_three">Beijing</string>
+    <string name="a_four_four">Gaborone</string>
+
+    <string name="question_five">What is the capital of Canada?</string>
+    <string name="a_five_one">Ottawa</string>
+    <string name="a_five_two">Regina</string>
+    <string name="a_five_three">Victoria</string>
+    <string name="a_five_four">Ethiopia</string>
+    <string name="you_got">You got</string>
+    <string name="check">Check your answers</string>
+    <string name="home_page">Home Page</string>
+
+</resources>
